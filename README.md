@@ -32,7 +32,7 @@ This will create the files you want to run in a directory called `target`. There
 
 ## Contributing
 
-Mercury is is need of testing and code contributions. Please feel free to file issues if you find any bugs. 
+Mercury is in need of testing and code contributions. Please feel free to file issues if you find any bugs. 
 
 If any critical exploits are found in the cross-chain atomic swap implementation, we will gladly pay bounties if they are disclosed responsibly (there is bound to be some low-hanging fruit to find). [There will be a Crowdcurity link here shortly].
 
